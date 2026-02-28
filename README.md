@@ -12,7 +12,6 @@
 4. [⚙️ Desarrollo del proyecto](#️-desarrollo-del-proyecto)
 5. [📌 Resultados destacados](#-resultados-destacados)
 6. [✅ Tecnologías utilizadas](#-tecnologías-utilizadas)
-7. [👤 Autor](#-autor)
 
 ---
 
@@ -93,4 +92,4 @@ Estas recomendaciones sientan las bases para el desarrollo de **modelos predicti
 - `seaborn`
 
 ### 🧩 Entorno de desarrollo
-- **Google Colab**
+- **Jupiter notebook**
